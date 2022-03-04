@@ -3,7 +3,7 @@
 
 //Clase Empleado
 /**
- * <h2> Una clase para atribuir los metodos de empleado
+ * <h2> Una clase para atribuir los metodos de empleado </h2>
  * @version 1.0, 04/03/2022
  * @author Jorge Ruiz Navarro
  * @since 04-03-2022
@@ -154,7 +154,7 @@ public class Empleado {
    
     //calcular el importe de las retencion por IRPF
     /**
-     * @param tipo establece el tipo de IRPF que se va a aplicar 
+     * 
      * @return  la rentencion de IRPF (con la multiplicacion del sueldo bruto por la variable tipo, esto se divide entre 100)
      */
     public double calcularRetencionIrpf(){
