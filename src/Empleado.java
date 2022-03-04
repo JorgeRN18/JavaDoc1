@@ -178,6 +178,9 @@ public class Empleado {
     }
 
     //mostrar los datos de un trabajador
+    /**
+     * @return una cadena en la que se ve todas las variables instaciadas con anterioridad
+     */
     @Override
     public String toString() {
         StringBuilder sb = new StringBuilder();
